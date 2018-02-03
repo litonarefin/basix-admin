@@ -16,6 +16,7 @@ You can access to 5000+ Icons (Fontawesome, Brandico, Entypo, Fontelico, Glyphic
 **NOTE: Please remember to STAR this project and FOLLOW my Github to stay up to date with this template.**
 
 ## [Demo](http://vuejsadmin.com) ##
+## [Documentation](http://vuejsadmin.com/documentation) ##
 
 A fully functional demo is available at [Basix Admin Template](http://vuejsadmin.com)
 
@@ -38,9 +39,23 @@ Basix Admin/
 ```
 
 
-## Build Setup
+## Installation and Build Setup
+### Single Line Installation ( Yarn Install )
+``` 
+# install dependencies
+yarnpkg install
 
-``` bash
+# serve with hot reload at localhost:8080
+yarn run dev
+
+# build for production with minification
+yarn run build
+
+```
+or,
+
+### NPM Installation
+``` 
 # install dependencies
 npm install
 

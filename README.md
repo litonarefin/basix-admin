@@ -1,3 +1,4 @@
+
 # Basix Admin - VueJS Bootstrap v4 Admin Dashboard Template #
 
 ![alt text](https://jeweltheme.com/wp-content/uploads/2017/11/cover.jpg "Basix Admin - Vuejs Bootstrap Admin Dashboard Template")
@@ -15,8 +16,8 @@ You can access to 5000+ Icons (Fontawesome, Brandico, Entypo, Fontelico, Glyphic
 
 **NOTE: Please remember to STAR this project and FOLLOW my Github to stay up to date with this template.**
 
-## [Demo](http://vuejsadmin.com) ##
-## [Documentation](http://vuejsadmin.com/documentation) ##
+## [Demo](https://demos.vuejsadmin.com/basix/) ##
+## [Documentation](https://docs.vuejsadmin.com/) ##
 
 A fully functional demo is available at [Basix Admin Template](http://vuejsadmin.com)
 
@@ -88,3 +89,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+

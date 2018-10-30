@@ -8,7 +8,7 @@
 
 # Get More [Free VueJS BootStrap Admin Templates](https://vuejsadmin.com) #
 
-Check out Basix Admin Template Pro [Themeforest Page](https://vuejsadmin.com/product/arbano-vuejs-admin-pro/).
+Check out [Basix Admin Template Pro](https://vuejsadmin.com/product/basix-admin-pro/).
 
 ## Basix Admin Dashboard Template ##
 
